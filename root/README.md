@@ -1,0 +1,3 @@
+# collorg demos...
+
+* [ngbrx-paginator](https://collorg.github.io/ngbrx-paginator) ng-bootstrap pagination in a ngrx store.
