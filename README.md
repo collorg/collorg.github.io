@@ -1,3 +1,2 @@
-# collorg demos...
-
-* [ngbrx-paginator-demo](https://collorg.github.io/ngbrx-paginator-demo): Demo of [ng-bootstrap][https://github.io/collorg/ngbrx-paginator]. Simple pagination of your slices in an ngrx store.
+* [half-orm](https://github.com/collorg/halfORM) A simple PostgreSQL to Python mapper.
+* [ngbrx-paginator-demo](https://collorg.github.io/ngbrx-paginator-demo): Easy pagination of your state slices in an ngrx store.
