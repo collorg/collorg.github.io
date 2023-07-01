@@ -1,3 +1,0 @@
-# collorg demos...
-
-* [ngbrx-paginator-demo](https://collorg.github.io/ngbrx-paginator-demo): Demo of [ng-bootstrap][https://github.io/collorg/ngbrx-paginator]. Simple pagination of your slices in an ngrx store.
